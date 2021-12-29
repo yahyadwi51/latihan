@@ -2,4 +2,6 @@ rencana latihan
 
 -latihan javascript,
 -php framework
+  * CI
+  * laravel
 -interview
