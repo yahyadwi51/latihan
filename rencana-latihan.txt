@@ -5,6 +5,7 @@ rencana latihan
 -php framework
   * CI
   * laravel
+  * angular
 -interview
 
 - visual studio code
