@@ -6,4 +6,6 @@ rencana latihan
   * CI
   * laravel
 -interview
-- sublime text
+
+- visual studio code
+
