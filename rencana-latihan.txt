@@ -1,0 +1,5 @@
+rencana latihan 
+
+-latihan javascript,
+-php framework
+-interview
