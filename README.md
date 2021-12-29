@@ -1,2 +1,2 @@
 # latihan
-repo latihan
+repositori latihan
